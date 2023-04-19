@@ -2,7 +2,9 @@
 
 ## ✍ Introducción
 
-Este proyecto es un conjunto de funcionalidades creadas con el fin de aprender y repasar los Hooks más comunes de React. Esta tarea forma parte del curso "React de cero a experto: Hooks y MERN" de Fernando Herrera, el cual forma parte de la plataforma (devtalles)[https://cursos.devtalles.com/courses/react-cero-experto].
+Este proyecto es un conjunto de funcionalidades creadas con el fin de aprender y repasar los Hooks más comunes de React. Esta tarea forma parte del curso "React de cero a experto: Hooks y MERN" de Fernando Herrera, el cual forma parte de la plataforma [devtalles](https://cursos.devtalles.com/courses/react-cero-experto).
+
+<br/>
 
 ## 💡 Problema / Solución
 
@@ -10,6 +12,8 @@ Este proyecto es un conjunto de funcionalidades creadas con el fin de aprender y
 
 - En este caso, el proyecto es creado enteramente con la intención de practicar.
 - Se busca generar una mayor comprensión del tema, además de mostrar ejemplos para optimizar el funcionamiento del código.
+
+<br/>
 
 <!-- ## 📷 Imagen del proyecto:
 
@@ -25,18 +29,24 @@ Un listado de tecnologías, por ejemplo:
 
 `JavaScript` --> Como lenguaje de programación
 
+`Bootstrap` --> Para manejar de forma rápida los estilos de cada ejercicio
+
 `Jest` --> Para realizar pruebas unitarias en los componentes de la app
 
 `Testing Library` --> Como complemento a Jest para optimizar los test unitarios en el contexto de React
 
+<br/>
+
 ## 🎯 Objetivos del proyecto
 
-- Objetivo 1
-- Objetivo 2
-- Objetivo 3
+- Aplicar de forma práctica los hooks más comunes de React
+- Analizar el funcionamiento de cada hook y sus usos
+- Practicar la resolución de problemas comunes utilizando hooks
+
+<br/>
 
 ## 🎁 Aprendizajes
 
-- Aprendizaje 1
-- Aprendizaje 2
+- Buenas prácticas del useEffect
+- useEffect return --> Mounted and unmounted components
 - Aprendizaje 3
