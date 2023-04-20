@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { Message } from "./Message";
 
 export const SimpleForm = () => {
@@ -16,18 +16,6 @@ export const SimpleForm = () => {
       [name]: value,
     });
   };
-
-  useEffect(() => {
-    console.log("useEffect called!");
-  }, []);
-
-  //   useEffect(() => {
-  //     console.log("formState changed!");
-  //   }, [formState]);
-
-  //   useEffect(() => {
-  //     console.log("Email changed!");
-  //   }, [email]);
 
   return (
     <>
