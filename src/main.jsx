@@ -5,12 +5,16 @@ import ReactDOM from "react-dom/client";
 // import { CounterAppWithCustomHooks } from "./01-useState/CounterAppWithCustomHooks";
 // import { SimpleForm } from "./02-useEffect/SimpleForm";
 // import { FormWithCustomHook } from "./02-useEffect/FormWithCustomHook";
-import { RickAndMortyCharacters } from "./03-examples/RickAndMortyCharacters";
+// import { RickAndMortyCharacters } from "./03-examples/RickAndMortyCharacters";
+// import { FocusForm } from "./04-useRef/FocusForm";
+// import { Layout } from "./05-useLayoutEffect/Layout";
+// import { Memorize } from "./06-memos/memorize";
+import { MemoHook } from "./06-memos/MemoHook";
 
 import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
-  <React.StrictMode>
-    <RickAndMortyCharacters />
-  </React.StrictMode>
+  // <React.StrictMode>
+  <MemoHook />
+  // </React.StrictMode>
 );
